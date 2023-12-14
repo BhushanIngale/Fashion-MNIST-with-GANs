@@ -1,1 +1,1 @@
-# Titanic-Survival-PyTorch
+# Fashion MNIST with Generative Adverserial Neural Networks
